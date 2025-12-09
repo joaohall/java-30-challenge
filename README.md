@@ -1,2 +1,2 @@
 # java-30-challenge
-75 desafios java distribuídos em 30 dias. Para fins de revisão da linguagem
+My Grind 75 in Java: A 30-day journey solving the classic LeetCode "Grind 75" challenge. A focused review of Data Structures & Algorithms to sharpen problem-solving skills in Java.
